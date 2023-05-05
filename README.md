@@ -1,2 +1,2 @@
 # Taller_github
-MI primer repositorio de practica en Github
+Mi primer repositorio de practica en Github
